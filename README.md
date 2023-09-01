@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itzurmandude
-- 👀 I’m interested in Kali Linux
+- 👀 I’m interested in Termux 
 - 🌱 I’m currently learning about Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
